@@ -13,7 +13,7 @@ tags:
 - hello
 - world
 
-{% highlight ruby linenos %}
+{% highlight ruby %}
 def foo
   puts 'foo'
 end
