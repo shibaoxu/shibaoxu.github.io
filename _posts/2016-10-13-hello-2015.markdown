@@ -13,7 +13,19 @@ tags:
 - hello
 - world--
 
-#### React
+{% highlight ruby %}
+def foo
+  puts 'foo'
+end
+{% endhighlight %}
 
+
+#### React
+{% for page in site.static_files %}
+        <a href="{{ page.path | prepend: site.baseurl }}">{{ page.title }}</a>
+{% endfor %}
 #### Bootstrp
 
+{% for page in site.pages %}
+        <a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
+{% endfor %}
