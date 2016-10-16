@@ -13,10 +13,11 @@ description: "否则别说话"
         <h3 class="post-subtitle">
             {{ post.subtitle }}
         </h3>
-        {% endif %}
-        <div class="post-content-preview">
-            {{ post.content | strip_html | truncate:200 }}
-        </div>
+        <!--{% endif %}-->
+        <!--<div class="post-content-preview">-->
+            <!--{{ post.content | strip_html | truncate:200 }}-->
+        <!--</div>-->
+        {{ post.excerpt}}
     </a>
     <p class="post-meta">
         作者 {% if post.author %}{{ post.author }}{% else %}{{ site.title }}{% endif %} 发表于 {{ post.date | date: "%B %-d, %Y" }}
