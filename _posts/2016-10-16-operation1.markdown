@@ -1,0 +1,13 @@
+---
+layout:     post
+title:      "从零开始做运营(1)——概述"
+date:       2016-10-16 12:00:00
+author:     "shibaoxu"
+header-img: "img/post-bg-miui6.jpg"
+catalog: true
+tags:
+    - 读书笔记
+    - 运营
+---
+
+> 本文是读[从零开始做运营](https://www.amazon.cn/从零开始做运营-张亮/dp/B01914JGGY/ref=sr_1_1?ie=UTF8&qid=1476591277&sr=8-1&keywords=从零开始做运营)的笔记。
