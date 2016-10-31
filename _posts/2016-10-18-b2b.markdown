@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "马云半截打电话，使我看清B2B的真正本质"
+title:      "马云半夜打电话，使我看清B2B的真正本质"
 date:       2016-10-18 12:00:00
 author:     "shibaoxu"
 header-img: "img/post-bg-miui6.jpg"
